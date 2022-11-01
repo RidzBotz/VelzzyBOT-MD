@@ -1,19 +1,19 @@
 {
-  "contactOwner": "6283848609106",
-  "ownerNumber": ["6283848609106@s.whatsapp.net"],
+  "contactOwner": "6283852854059",
+  "ownerNumber": ["6283852854059@s.whatsapp.net"],
   "botName": "RidzzBOT-MDོ",
-  "ownerName": "RidzzOfcོ",
+  "ownerName": "Ridzz Ganz",
   "pathimg": "./temp/logo.jpg",
-  "footer": "RidzzBOT-MDོ © RidzzOfcོ",
+  "footer": "RidzzBOT-MDོ © Ridzz Ganz",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "083848609106",
-      "atas_nama": "Ridzz Ofc"
+      "nomer": "083852854059",
+      "atas_nama": "Ridzz Ganz"
     },
     "dana": {
       "nomer": "6283848609106",
-      "atas_nama": "Ridzz 0fc"
+      "atas_nama": "Ridzz Ganz"
     }
   }
 }
